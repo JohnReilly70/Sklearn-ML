@@ -108,3 +108,6 @@ venv.bak/
 .idea/
 
 test.py
+
+*.data
+*.names
